@@ -1,0 +1,1 @@
+$(document).ready(function(){$("ul.accordion").accordion({active:".selected",autoHeight:!1,header:".opener",collapsible:!0,event:"click"})});
